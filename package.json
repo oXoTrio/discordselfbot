@@ -2,7 +2,7 @@
   "name": "selfbot",
   "description": "selfbot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "selfbot.js",
   "scripts": {
     "start": "node selfbot.js"
   },
